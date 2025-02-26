@@ -57,6 +57,7 @@ This project implements a decentralized finance (DeFi) lending and borrowing sys
 
 Task3:
 
-  <img width="347" alt="Screenshot 2025-02-26 082547" src="https://github.com/user-attachments/assets/7c59facb-34f5-4985-a095-b58de997c2b6" />
+
+  <img width="347" alt="Screenshot 2025-02-26 082547" src="https://github.com/user-attachments/assets/f0bb3050-58f0-45c5-a26e-552f50426799" />
 
   
